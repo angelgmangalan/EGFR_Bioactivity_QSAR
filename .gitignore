@@ -1,0 +1,7 @@
+outputs/
+outputs.zip
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
